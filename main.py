@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Entry program for the make.fun bounty "Sum up 23 November's world
-news in one image".
+news in one image" (v2).
 
 The repository holds the finished digest image (entry.png). This program
 places an exact copy of it at /output/entry.png. It uses only the standard
